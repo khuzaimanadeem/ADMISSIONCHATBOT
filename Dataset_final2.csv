@@ -1,0 +1,608 @@
+QUESTIONS,INTENTS
+what is the eligibility creteria for media scineces?,Qualification
+eligibility creteria for media scineces?,Qualification
+what is the eligibility creteria for BSMS?,Qualification
+eligibility creteria for BSMS?,Qualification
+what percentage is required for admission in bachelors in media sciences?,Qualification
+what qualification is required for bachelors in media sciecnes?,Qualification
+what minimum percentage is required in intermediate for admission in bachelors in media sciences?,Qualification
+what minimum percentage is required in associate diploma for admission in bachelors in media sciences?,Qualification
+for associate diploama students what percentage is required for admission in media sciences?,Qualification
+what minimum percentage is required in A level for admission in bachelors in media sciences?,Qualification
+what are the total credit hours in media sciences?,Credit Hour
+how many credit hours in media sciences?,Credit Hour
+what are the total credit hours in BSMS?,Credit Hour
+how many credit hours in BSMS?,Credit Hour
+Total credit hours in media sciences?,Credit Hour
+Total credit hours in BSMS?,Credit Hour
+how many credit hours we need to study in media sciences?,Credit Hour
+how many credit hours we need to study in BSMS?,Credit Hour
+what are the total courses in media sciences?,Courses
+how many courses in media sciences?,Courses
+what are the total courses in BSMS?,Courses
+how many courses in BSMS?,Courses
+Total courses in media sciences?,Courses
+Total courses in BSMS?,Courses
+how many courses we need to study in media sciences?,Courses
+how many courses we need to study in BSMS?,Courses
+what are the classes timings for media sciences?,Class Timings
+what are the classes timings for BSMS?,Class Timings
+what is the per credit hour fees for media sciences?,Fees
+what is the per credit hour fees for BSMS?,Fees
+what is the per course fees for media sciences?,Fees
+what is the per course fees for BSMS?,Fees
+minimum courses required in a semester for media sciences?,Courses
+minimum courses required in a semester for BSMS?,Courses
+how many courses are required in a semester for media sciences?,Courses
+how many courses are required in a semester for BSMS?,Courses
+what are the minimum courses a student can take in a semester in media sciences?,Courses
+what are the minimum courses a student can take in a semester in BSMS?,Courses
+what is the total fees for a semester in media sciences?,Fees
+what is the total fees for a semester in BSMS?,Fees
+Semester fees for a semester in media sciences?,Fees
+Semester fees for a semester in BSMS?,Fees
+per semester fees for a semester in media sciences?,Fees
+per semester fees for a semester in BSMS?,Fees
+is registration fees of a semester is refundable in media sciences?,Fees
+is registration fees of a semester is refundable in BSMS?,Fees
+what is the registration fees for spring in media sciences?,Fees
+what is the registration fees for spring in BSMS?,Fees
+Spring regestration fees in media sciences?,Fees
+Spring regestration fees in BSMS?,Fees
+what is the registration fees for summer in media sciences?,Fees
+what is the registration fees for summer in BSMS?,Fees
+Summer regestration fees in media sciences?,Fees
+Summer regestration fees in BSMS?,Fees
+what is the registration fees for fall in media sciences?,Fees
+what is the registration fees for fall in BSMS?,Fees
+Fall registration fees in media sciences?,Fees
+Fall registration fees in BSMS?,Fees
+what is the documents verification fees for media sciences?,Fees
+what is the documents verification fees for BSMS? ,Fees
+is there any fees for documents verification fees for media sciences?,Fees
+is there any fees for documents verification fees for BSMS?,Fees
+How much is the documents verification fees for media sciences?,Fees
+How much is the documents verification fees for BSMS?,Fees
+is document verification fees of a semester is refundable in media sciences?,Fees
+is document verification fees of a semester is refundable in BSMS?,Fees
+how many times a student have to pay the documents verification fees for media sciences?,Fees
+how many times a student have to pay the documents verification fees for BSMS?,Fees
+what is the fees structure of first semester for media sciences?,Fees
+what is the fees structure of first semester for BSMS?,Fees
+what is the duration time of spring semester in media sciences?,Semester Duration
+what is the duration time of spring semester in BSMS?,Semester Duration
+what is the duration time of fall semester in media sciences?,Semester Duration
+what is the duration time of fall semester in BSMS?,Semester Duration
+what is the duration time of summer semester in media sciences?,Semester Duration
+what is the duration time of summer semester in BSMS?,Semester Duration
+what is the eligibility creteria for computer sciences?,Qualification
+eligibility creteria for computer sciences?,Qualification
+what is the eligibility creteria for BSCS?,Qualification
+eligibility creteria for BSCS?,Qualification
+what percentage is required for admission in bachelors in computer sciences?,Qualification
+what qualification is required for bachelors in computer sciences?,Qualification
+what minimum percentage is required in intermediate for admission in bachelors in computer sciences?,Qualification
+what minimum percentage is required in associate diploma for admission in bachelors in computer sciences?,Qualification
+for associate diploama students what percentage is required for admission in computer sciences?,Qualification
+what minimum percentage is required in A level for admission in bachelors in computer sciences?,Qualification
+what are the total credit hours in computer sciences?,Credit Hours
+how many credit hours in computer sciences?,Credit Hours
+what are the total credit hours in BSCS?,Credit Hours
+how many credit hours in BSCS?,Credit Hours
+Total credit hours in computer sciences?,Credit Hours
+Total credit hours in BSCS?,Credit Hours
+how many credit hours we need to study in computer sciences?,Credit Hours
+how many credit hours we need to study in BSCS?,Credit Hours
+what are the total courses in computer sciences?,Courses
+how many courses in computer sciences?,Courses
+what are the total courses in BSCS?,Courses
+how many courses in BSCS?,Courses
+Total courses in computer sciences?,Courses
+Total courses in BSCS?,Courses
+how many courses we need to study in computer sciences?,Courses
+how many courses we need to study in BSCS?,Courses
+what are the classes timings for computer sciences?,Class Timings
+what are the classes timings for BSCS?,Class Timings
+what is the per credit hour fees for computer sciences?,Fees
+what is the per credit hour fees for BSCS?,Fees
+what is the per course fees for computer sciences?,Fees
+what is the per course fees for BSCS?,Fees
+minimum courses required in a semester for computer sciences?,Courses
+minimum courses required in a semester for BSCS?,Courses
+how many courses are required in a semester for computer sciences?,Courses
+how many courses are required in a semester for BSCS?,Courses
+what are the minimum courses a student can take in a semester in computer sciences?,Courses
+what are the minimum courses a student can take in a semester in BSCS?,Courses
+what is the total fees for a semester in computer sciences?,Fees
+what is the total fees for a semester in BSCS?,Fees
+Semester fees for a semester in computer sciences?,Fees
+Semester fees for a semester in BSCS?,Fees
+per semester fees for a semester in computer sciences?,Fees
+per semester fees for a semester in BSCS?,Fees
+is registration fees of a semester is refundable in computer sciences?,Fees
+is registration fees of a semester is refundable in BSCS?,Fees
+what is the registration fees for spring in computer sciences?,Fees
+what is the registration fees for spring in BSCS?,Fees
+Spring regestration fees in computer sciences?,Fees
+Spring regestration fees in BSCS?,Fees
+what is the registration fees for summer in computer sciences?,Fees
+what is the registration fees for summer in BSCS?,Fees
+Summer regestration fees in computer sciences?,Fees
+Summer regestration fees in BSCS?,Fees
+what is the registration fees for fall in computer sciences?,Fees
+what is the registration fees for fall in BSCS?,Fees
+Fall registration fees in computer sciences?,Fees
+Fall registration fees in BSCS?,Fees
+what is the documents verification fees for computer sciences?,Fees
+what is the documents verification fees for BSCS? ,Fees
+is there any fees for documents verification fees for computer sciences?,Fees
+is there any fees for documents verification fees for BSCS?,Fees
+How much is the documents verification fees for computer sciences?,Fees
+How much is the documents verification fees for BSCS?,Fees
+is document verification fees of a semester is refundable in computer sciences?,Fees
+is document verification fees of a semester is refundable in BSCS?,Fees
+how many times a student have to pay the documents verification fees for computer sciences?,Fees
+how many times a student have to pay the documents verification fees for BSCS?,Fees
+what is the fees structure of first semester for computer sciences?,Fees
+what is the fees structure of first semester for BSCS?,Fees
+what is the duration time of spring semester in computer sciences?,Semester Duration
+what is the duration time of spring semester in BSCS?,Semester Duration
+what is the duration time of fall semester in computer sciences?,Semester Duration
+what is the duration time of fall semester in BSCS?,Semester Duration
+what is the duration time of summer semester in computer sciences?,Semester Duration
+what is the duration time of summer semester in BSCS?,Semester Duration
+what are the morning classes timings for bachelors in business adminitration?,Class Timings
+what are the morning classes timings for BBA?,Class Timings
+what are the eveningclasses timings for bachelors in business adminitration?,Class Timings
+what are the eveningclasses timings for BBA?,Class Timings
+what minimum percentage is required in intermediate for admission in bachelors of business adminitration?,Qualification
+what is the qualification required of 12 years of schooling for BBA?,Qualification
+what are the total courses in bachelors of business adminitration for students who have done 12 years of education? ,Qualification
+what are the total credit hours in bachelors of business adminitration for students who have done 12 years of education?,Qualification
+what is the program time duration in bachelors of business adminitration for students who have done 12 years of education?,Qualification
+what are the total courses in bachelors of business adminitration for students who have done 14 years of education?,Qualification
+what is the qualification required of 14 years of schooling for BBA?,Qualification
+what are the total credit hours in bachelors of business adminitration for students who have done 14 years of education?,Qualification
+what is the program time duration in bachelors of business adminitration for students who have done 14 years of education?,Qualification
+what minimum CGPA a student must have for bachelors in business administration?,Qualification
+what minimum CGPA is required for BBA?,Qualification
+what division a student must have for bachelors in business administration?,Qualification
+what division CGPA is required for BBA?,Qualification
+what are the total courses in bachelors of business adminitration for students who have done 15 years of education?,Qualification
+what is the qualification required of 15 years of schooling for BBA?,Qualification
+what are the total credit hours in bachelors of business adminitration for students who have done 15 years of education?,Qualification
+what is the program time duration in bachelors of business adminitration for students who have done 15 years of education?,Qualification
+what minimum CGPA a student must have for bachelors in business administration?,Qualification
+what minimum CGPA is required for BBA?,Qualification
+what division a student must have for bachelors in business administration?,Qualification
+what division CGPA is required for BBA?,Qualification
+what is the per course fees for bachelors in business adminitration?,Fees
+what is the per course fees for BBA?,Fees
+minimum courses required in a semester for bachelors in business adminitration?,Courses
+minimum courses required in a semester for BBA?,Courses
+how many courses are required in a semester for bachelors in business adminitration?,Courses
+how many courses are required in a semester for BBA?,Courses
+what are the minimum courses a student can take in a semester in bachelors in business adminitration?,Courses
+what are the minimum courses a student can take in a semester in BBA?,Courses
+what is the total fees for a semester in bachelors in business adminitration?,Fees
+what is the total fees for a semester in BBA?,Fees
+Semester fees for a semester in bachelors in business adminitration?,Fees
+Semester fees for a semester in BBA?,Fees
+per semester fees for a semester in bachelors in business adminitration?,Fees
+per semester fees for a semester in BBA?,Fees
+is registration fees of a semester is refundable in bachelors in business adminitration?,Fees
+is registration fees of a semester is refundable in BBA?,Fees
+what is the registration fees for spring in bachelors in business adminitration?,Fees
+what is the registration fees for spring in BBA?,Fees
+Spring regestration fees in bachelors in business adminitration?,Fees
+Spring regestration fees in BBA?,Fees
+what is the registration fees for summer in bachelors in business adminitration?,Fees
+what is the registration fees for summer in BBA?,Fees
+Summer regestration fees in bachelors in business adminitration?,Fees
+Summer regestration fees in BBA?,Fees
+what is the registration fees for fall in bachelors in business adminitration?,Fees
+what is the registration fees for fall in BBA?,Fees
+Fall registration fees in bachelors in business adminitration?,Fees
+Fall registration fees in BBA?,Fees
+what is the documents verification fees for bachelors in business adminitration?,Fees
+what is the documents verification fees for BBA? ,Fees
+is there any fees for documents verification fees for bachelors in business adminitration?,Fees
+is there any fees for documents verification fees for BBA?,Fees
+How much is the documents verification fees for bachelors in business adminitration?,Fees
+How much is the documents verification fees for BBA?,Fees
+is document verification fees of a semester is refundable in bachelors in business adminitration?,Fees
+is document verification fees of a semester is refundable in BBA?,Fees
+how many times a student have to pay the documents verification fees for bachelors in business adminitration?,Fees
+how many times a student have to pay the documents verification fees for BBA?,Fees
+what is the fees structure of first semester for bachelors in business adminitration?,Fees
+what is the fees structure of first semester for BBA?,Fees
+what is the duration time of spring semester in bachelors in business adminitration?,Semester Duration
+what is the duration time of spring semester in BBA?,Semester Duration
+what is the duration time of fall semester in bachelors in business adminitration?,Semester Duration
+what is the duration time of fall semester in BBA?,Semester Duration
+what is the duration time of summer semester in bachelors in business adminitration?,Semester Duration
+what is the duration time of summer semester in BBA?,Semester Duration
+what are the morning classes timings for bachelors in education?,Class Timings
+what are the morning classes timings for B.ED?,Class Timings
+what are the evening classes timings for bachelors in education?,Class Timings
+what are the evening classes timings for B.ED?,Class Timings
+what minimum percentage is required in intermediate for admission in bachelors of education?,Qualification
+what is the qualification required of 12 years of schooling for B.ED?,Qualification
+what are the total courses in bachelors of education for students who have done 12 years of education? ,Qualification
+what are the total credit hours in bachelors of education for students who have done 12 years of education?,Qualification
+what is the program time duration in bachelors of education for students who have done 12 years of education?,Qualification
+what are the total courses in bachelors of education for students who have done 14 years of education?,Qualification
+what is the qualification required of 14 years of schooling for B.ED?,Qualification
+what are the total credit hours in bachelors of education for students who have done 14 years of education?,Qualification
+what is the program time duration in bachelors of education for students who have done 14 years of education?,Qualification
+what minimum CGPA a student must have in bachelors for bachelors of education?,Qualification
+what minimum CGPA is required for B.ED?,Qualification
+what division a student must have in bachelors for bachelors of education?,Qualification
+what division CGPA is required for B.ED?,Qualification
+what are the total courses in bachelors of education for students who have done 16 years of education?,Qualification
+what is the qualification required of 16 years of schooling for B.ED?,Qualification
+what are the total credit hours in bachelors of education for students who have done 16 years of education?,Qualification
+what is the program time duration in bachelors of education for students who have done 16 years of education?,Qualification
+what minimum CGPA a student must have in bachelors for bachelors of education?,Qualification
+what minimum CGPA is required for B.ED?,Qualification
+what division a student must have in bachelors for bachelors of education?,Qualification
+what division CGPA is required for B.ED?,Qualification
+what minimum percentage is required in intermediate for admission in associate degree program in education?,Qualification
+what is the qualification required of 12 years of schooling for ADE?,Qualification
+what are the total courses in associate degree program of education for students who have done 12 years of education?,Qualification
+what are the total credit hours in associate degree program of education for students who have done 12 years of education?,Qualification
+what is the program time duration in associate degree program of education for students who have done 12 years of education?,Qualification
+what is the per credit hour fees for bachelors in education?,Fees
+what is the per credit hour fees for B.ED?,Fees
+minimum credit hours required in a semester for bachelors in education?,Credit hours 
+minimum credit hours required in a semester for B.ED?,Credit hours 
+how many credit hours are required in a semester for bachelors in education?,Credit hours 
+how many credit hours are required in a semester for B.ED?,Credit hours 
+what are the minimum credit hours a student can take in a semester in bachelors in education?,Credit hours 
+what are the minimum credit hours a student can take in a semester in B.ED?,Credit hours 
+what is the total fees for a semester in bachelors in education?,Fees
+what is the total fees for a semester in B.ED?,Fees
+Semester fees for a semester in bachelors in education?,Fees
+Semester fees for a semester in B.ED?,Fees
+per semester fees for a semester in bachelors in education?,Fees
+per semester fees for a semester in B.ED?,Fees
+is registration fees of a semester is refundable in bachelors in education?,Fees
+is registration fees of a semester is refundable in B.ED?,Fees
+what is the registration fees for spring in bachelors in education?,Fees
+what is the registration fees for spring in B.ED?,Fees
+Spring regestration fees in bachelors in education?,Fees
+Spring regestration fees in B.ED?,Fees
+what is the registration fees for summer in bachelors in education?,Fees
+what is the registration fees for summer in B.ED?,Fees
+Summer regestration fees in bachelors in education?,Fees
+Summer regestration fees in B.ED?,Fees
+what is the registration fees for fall in bachelors in education?,Fees
+what is the registration fees for fall in B.ED?,Fees
+Fall registration fees in bachelors in education?,Fees
+Fall registration fees in B.ED?,Fees
+what is the documents verification fees for bachelors in education?,Fees
+what is the documents verification fees for B.ED? ,Fees
+is there any fees for documents verification fees for bachelors in education?,Fees
+is there any fees for documents verification fees for B.ED?,Fees
+How much is the documents verification fees for bachelors in education?,Fees
+How much is the documents verification fees for B.ED?,Fees
+is document verification fees of a semester is refundable in bachelors in education?,Fees
+is document verification fees of a semester is refundable in B.ED?,Fees
+how many times a student have to pay the documents verification fees for bachelors in education?,Fees
+how many times a student have to pay the documents verification fees for B.ED?,Fees
+what is the fees structure of first semester for bachelors in education?,Fees
+what is the fees structure of first semester for B.ED?,Fees
+what are the morning classes timings for bachelors in M.PHIL English program?,Class Timings
+what is the eligibility creteria for M.PHIL English program?,Qualification
+eligibility creteria for M.PHIL English program?,Qualification
+what percentage is required for admission in M.PHIL English program?,Qualification
+what qualification is required for M.PHIL English program?,Qualification
+what percentage is required for admission in M.PHIL English program?,Qualification
+what minimum percentage is required in MA.English / BS.English for admission in M.PHIL English program?,Qualification
+what is the duration time of  M.PHIL English program?,Degree Duration
+what are the total courses and thesis in M.PHIL English program?,Courses
+how many courses in M.PHIL English program?,Courses
+Total courses in M.PHIL English program?,Courses
+how many courses we need to study for M.PHIL English program?,Courses
+what are the total credit hours in M.PHIL English program?,Credit Hours
+how many credit hours in M.PHIL English program?,Credit Hours
+Total credit hours in M.PHIL English program?,Credit Hours
+how many credit hours we need to study in M.PHIL English program?,Credit Hours
+what is the per credit hour fees for M.PHIL English program?,Fees
+what is the per course fees for M.PHIL English program?,Fees
+minimum courses required in a semester for M.PHIL English program?,Courses
+how many courses are required in a semester for M.PHIL English program?,Courses
+what are the minimum courses a student can take in a semester in M.PHIL English program?,Courses
+what is the total fees for a semester in M.PHIL English program?,Fees
+Semester fees for a semester in M.PHIL English program?,Fees
+per semester fees for a semester in M.PHIL English program?,Fees
+is registration fees of a semester is refundable in M.PHIL English program?,Fees
+what is the registration fees for spring in M.PHIL English program?,Fees
+Spring regestration fees in M.PHIL English program?,Fees
+what is the registration fees for summer in M.PHIL English program?,Fees
+Summer regestration fees in M.PHIL English program?,Fees
+what is the registration fees for fall in M.PHIL English program?,Fees
+Fall registration fees in M.PHIL English program?,Fees
+what is the documents verification fees for M.PHIL English program?,Fees
+is there any fees for documents verification fees for M.PHIL English program?,Fees
+How much is the documents verification fees for M.PHIL English program?,Fees
+what is document verification fees of a semester is refundable in M.PHIL English program?,Fees
+how many times a student have to pay the documents verification fees for M.PHIL English program?,Fees
+what is the fees structure of first semester for M.PHIL English program?,Fees
+what is the fees of thesis supervision for M.Phil English program?,Fees
+What is the fees of thesis evaluation for M.Phil English program?,Fees
+What courses are there in M.Phil English program?,Courses
+What are the courses for M.Phil English program?,Courses
+Courses list in M.Phil English program?,Courses
+how many specialization programs offers in  M-Phil education program?,Specialization
+what are the specialization programs offers in M-Phil education program?,Specialization
+specilaization programs offered for M-Phil education program?,Specialization
+what is the specialization programs are given for M-Phil education program?,Specialization
+what are the morning classes timings for bachelors in M-Phil education program?,Class timings
+what is the eligibility creteria for M-Phil education program?,Qualification
+eligibility creteria for M-Phil education program?,Qualification
+what percentage is required for admission in M-Phil education program?,Qualification
+what qualification is required for M-Phil education program?,Qualification
+what percentage is required for admission in M-Phil education program?,Qualification
+what minimum percentage is required in B.ED + any Master for admission in M-Phil education program?,Qualification
+what is the duration time of  M-Phil education program?,Degree Duration
+what are the total courses and thesis in M-Phil education program?,Courses
+how many courses in M-Phil education program?,Courses
+Total courses in M-Phil education program?,Courses
+how many courses we need to study for M-Phil education program?,Courses
+what are the total credit hours in M-Phil education program?,Credit Hours
+how many credit hours in M-Phil education program?,Credit Hours
+Total credit hours in M-Phil education program?,Credit Hours
+how many credit hours we need to study in M-Phil education program?,Credit Hours
+M-Phil education program are available in spring program?,Semester Duration
+M-Phil education program are available in summer program?,Semester Duration
+M-Phil education program are available in fall program?,Semester Duration
+what is the per credit hour fees for M-Phil education program?,Fees
+what is the per course fees for M-Phil education program?,Fees
+minimum courses required in a semester for M-Phil education program?,Courses
+how many courses are required in a semester for M-Phil education program?,Courses
+what are the minimum courses a student can take in a semester in M-Phil education program?,Courses
+what is the total fees for a semester in M-Phil education program?,Fees
+Semester fees for a semester in M-Phil education program? ,Fees
+per semester fees for a semester in M-Phil education program?,Fees
+is registration fees of a semester is refundable in M-Phil education program?,Fees
+what is the registration fees for spring in M-Phil education program?,Fees
+Spring regestration fees in M-Phil education program?,Fees
+what is the registration fees for summer in M-Phil education program?,Fees
+Summer regestration fees in M-Phil education program?,Fees
+what is the registration fees for fall in M-Phil education program?,Fees
+Fall registration fees in M-Phil education program?,Fees
+what is the documents verification fees for M-Phil education program?,Fees
+is there any fees for documents verification fees for M-Phil education program?,Fees
+How much is the documents verification fees for M-Phil education program?,Fees
+what is document verification fees of a semester is refundable in M-Phil education program?,Fees
+how many times a student have to pay the documents verification fees for M-Phil education program?,Fees
+what is the fees structure of first semester for M-Phil education program?,Fees
+what is the fees of thesis supervision for M-Phil education program?,Fees
+What is the fees of thesis evaluation for M-Phil education program?,Fees
+What courses are there in M-Phil education program?,Courses
+What are the courses for M-Phil education program?,Courses
+Courses list in M-Phil education program?,Courses
+how many Specialization programs offers in  PHD Education Program?,Specialization
+what are the Specialization programs offers in  PHD Education Program?,Specialization
+specilaization programs offered for  PHD Education Program?,Specialization
+what is the specialization programs are given for  PHD Education Program?,Specialization
+what are the morning classes timings for bachelors in  PHD Education Program?,Class Timings
+what is the eligibility creteria for  PHD Education Program?,Qualificaition
+eligibility creteria for  PHD Education Program?,Qualificaition
+what percentage is required for admission in  PHD Education Program?,Qualificaition
+what qualification is required for  PHD Education Program?,Qualificaition
+what percentage is required for admission in  PHD Education Program?,Qualificaition
+what minimum percentage is required in M.phil for admission in  PHD Education Program?,Qualificaition
+what is the duration time of  PHD Education Program?,Degree Duration
+what are the total courses and thesis in  PHD Education Program?,Courses
+how many courses in  PHD Education Program?,Courses
+Total courses in  PHD Education Program?,Courses
+how many courses we need to study for  PHD Education Program?,Courses
+what are the total credit hours in  PHD Education Program?,Credit Hours
+how many credit hours in  PHD Education Program?,Credit Hours
+Total credit hours in  PHD Education Program?,Credit Hours
+how many credit hours we need to study in  PHD Education Program?,Credit Hours
+PHD Education Program are available in spring program?,Semester Duration
+PHD Education Program are available in summer program?,Semester Duration
+PHD Education Program are available in fall program?,Semester Duration
+what is the fees structure of PHD Education Program?,Fees
+how many types of fees which is pay on admission in PHD Education Program?,Fees
+how many time pay fees in PHD Education Program?,Fees
+what are the total fees for PHD education program?,Fees
+how much fees pay in PHD education program?,Fees
+Total amount of fees in PHD education program?,Fees
+what is the list of courses in PHD education program?,Courses
+how many courses offere in PHD education program?,Courses
+list of courses for PHD education program?,Courses
+courses list  for PHD education program?,Courses
+what is the eligibility creteria for masters in business administration?,Qualification
+eligibility creteria for masters in business administration?,Qualification
+what is the eligibility creteria for MBA?,Qualification
+eligibility creteria for MBA?,Qualification
+what division is required for admission in masters in business administration?,Qualification
+what qualification is required for masters in business administration?,Qualification
+what minimum CGPA is required for admission in masters in business administration?,Qualification
+"what are the total courses in Masters in business administration for students who have done BBA-H, MEF or MBA?",Courses
+"what are the total credit hours in Masters in business administration for students who have done BBA-H, MEF or MBA?",Courses
+"what is the program time duration for Masters in business administration for students who have done BBA-H, MEF or MBA?",Courses
+"what are the total courses in Masters in business administration for students who have done M.Com, MPA, MAS or equivalency of ICMA/CA/ACCA?",Courses
+"what are the total credit hours in Masters in business administration for students who have done M.Com, MPA, MAS or equivalency of ICMA/CA/ACCA?",Courses
+"what is the program time duration for Masters in business administration for students who have done M.Com, MPA, MAS or equivalency of ICMA/CA/ACCA?",Courses
+"what are the total courses in Masters in business administration for students who have done BE,B-Eco, BS(CS), Pharm.D., MA or any other irrelevant 4 year program?",Courses
+"what are the total credit hours in Masters in business administration for students who have done BE,B-Eco, BS(CS), Pharm.D., MA or any other irrelevant 4 year program?",Courses
+"what is the program time duration for Masters in business administration for students who have done BE,B-Eco, BS(CS), Pharm.D., MA or any other irrelevant 4 year program?",Courses
+what are the morning classes timings for Masters in business administration?,Class Timings
+what are the morning classes timings for MBA?,Class Timings
+what are the evening classes timings for Masters in business administration?,Class Timings
+what are the evening classes timings for MBA?,Class Timings
+what are the weekend classes timings for Masters in business administration?,Class Timings
+what are the weekend classes timings for MBA?,Class Timings
+what is the per credit hour fees for Masters in business administration?,Fees
+what is the per credit hour fees for MBA?,Fees
+what is the per course fees for Masters in business administration?,Fees
+what is the per course fees for MBA?,Fees
+minimum courses required in a semester for Masters in business administration?,Courses
+minimum courses required in a semester for MBA?,Courses
+how many courses are required in a semester for Masters in business administration?,Courses
+how many courses are required in a semester for MBA?,Courses
+what are the minimum courses a student can take in a semester in Masters in business administration?,Courses
+what are the minimum courses a student can take in a semester in MBA?,Courses
+what is the total fees for a semester in Masters in business administration?,Fees
+what is the total fees for a semester in MBA?,Fees
+Semester fees for a semester in Masters in business administration?,Fees
+Semester fees for a semester in MBA?,Fees
+per semester fees for a semester in Masters in business administration?,Fees
+per semester fees for a semester in MBA?,Fees
+is registration fees of a semester is refundable in Masters in business administration?,Fees
+is registration fees of a semester is refundable in MBA?,Fees
+what is the registration fees for spring in Masters in business administration?,Fees
+what is the registration fees for spring in MBA?,Fees
+Spring regestration fees in Masters in business administration?,Fees
+Spring regestration fees in MBA?,Fees
+what is the registration fees for summer in Masters in business administration?,Fees
+what is the registration fees for summer in MBA?,Fees
+Summer regestration fees in Masters in business administration?,Fees
+Summer regestration fees in MBA?,Fees
+what is the registration fees for fall in Masters in business administration?,Fees
+what is the registration fees for fall in MBA?,Fees
+Fall registration fees in Masters in business administration?,Fees
+Fall registration fees in MBA?,Fees
+is document verification fees of a semester is refundable in Masters in business administration?,Fees
+is document verification fees of a semester is refundable in MBA?,Fees
+how many times a student have to pay the documents verification fees for Masters in business administration?,Fees
+how many times a student have to pay the documents verification fees for MBA?,Fees
+what is the fees structure of first semester for Masters in business administration?,Fees
+what is the fees structure of first semester for MBA?,Fees
+what is the duration time of spring semester in Masters in business administration?,Semester Duration
+what is the duration time of spring semester in MBA?,Semester Duration
+what is the duration time of fall semester in Masters in business administration?,Semester Duration
+what is the duration time of fall semester in MBA?,Semester Duration
+what is the duration time of summer semester in Masters in business administration?,Semester Duration
+what is the duration time of summer semester in MBA?,Semester Duration
+what is the eligibility creteria for M.phil (Management Sciences)?,Qualification
+eligibility creteria for M.phil (Management Sciences)?,Qualification
+what is the eligibility creteria for M.phil (Management Sciences)?,Qualification
+eligibility creteria for M.phil (Management Sciences)?,Qualification
+what division is required for admission in M.phil (Management Sciences)?,Qualification
+what qualification is required for M.phil (Management Sciences)?,Qualification
+what minimum CGPA is required for admission in M.phil (Management Sciences)?,Qualification
+what are the total credit hours in M.phil (Management Sciences)?,Credit Hours
+how many credit hours in M.phil (Management Sciences)?,Credit Hours
+what are the total credit hours in M.phil (Management Sciences)?,Credit Hours
+Total credit hours in M.phil (Management Sciences)?,Credit Hours
+how many credit hours we need to study in M.phil (Management Sciences)?,Credit Hours
+what are the total courses in M.phil (Management Sciences)?,Courses
+how many courses in M.phil (Management Sciences)?,Courses
+Total courses in M.phil (Management Sciences)?,Courses
+how many courses we need to study in M.phil (Management Sciences)?,Courses
+minimum credit hours required in a semester for M.phil (Management Sciences)?,Credit Hours
+how many credit hours are required in a semester for M.phil (Management Sciences)?,Credit Hours
+what are the minimum credit hours a student can take in a semester in M.phil (Management Sciences)?,Credit Hours
+what is the total fees for a semester in M.phil (Management Sciences)?,Fees
+Semester fees for a semester in M.phil (Management Sciences)?,Fees
+per semester fees for a semester in M.phil (Management Sciences)?,Fees
+is registration fees of a semester is refundable in M.phil (Management Sciences)?,Fees
+what is the registration fees for spring in M.phil (Management Sciences)?,Fees
+Spring regestration fees in M.phil (Management Sciences)?,Fees
+what is the registration fees for summer in M.phil (Management Sciences)?,Fees
+Summer regestration fees in M.phil (Management Sciences)?,Fees
+what is the registration fees for fall in M.phil (Management Sciences)?,Fees
+Fall registration fees in M.phil (Management Sciences)?,Fees
+what is the documents verification fees for M.phil (Management Sciences)?,Fees
+is there any fees for documents verification fees for M.phil (Management Sciences)?,Fees
+How much is the documents verification fees for M.phil (Management Sciences)?,Fees
+is document verification fees of a semester is refundable in M.phil (Management Sciences)?,Fees
+how many times a student have to pay the documents verification fees for M.phil (Management Sciences)?,Fees
+what is the fees structure of first semester for M.phil (Management Sciences)?,Fees
+what are the evening classes timings for Bachelors in ENGLISH?,Classes Timings
+what is the eligibility creteria for Bachelors in ENGLISH?,Qualification
+eligibility creteria for M.phil Bachelors in ENGLISH?,Qualification
+what is the eligibility creteria for Bachelors in ENGLISH?,Qualification
+eligibility creteria for Bachelors in ENGLISH?,Qualification
+what division is required for admission in Bachelors in ENGLISH?,Qualification
+what qualification is required for Bachelors in ENGLISH?,Qualification
+what minimum CGPA is required for admission in Bachelors in ENGLISH?,Qualification
+what minimum percentage is required in intermediate for admission in Bachelors in ENGLISH?,Qualification
+what is the qualification requirement of 12 years of schooling for Bachelors in ENGLISH?,Qualification
+what are the total courses in bachelors for 12 years of education in Bachelors in ENGLISH?,Qualification
+what are the total credit hours in bachelors for 12 years of education in Bachelors in ENGLISH?,Qualification
+what is the program time duration after 12 years of education in bachelors in Bachelors in ENGLISH?,Qualification
+what minimum percentage is required in intermediate for admission in Bachelors in ENGLISH?,Qualification
+what is the qualification requirement of 14 years of schooling for Bachelors in ENGLISH?,Qualification
+what are the total courses in bachelors for 14 years of education in Bachelors in ENGLISH?,Qualification
+what are the total credit hours in bachelors for 14 years of education in Bachelors in ENGLISH?,Qualification
+what is the program time duration after 14 years of education in bachelors in Bachelors in ENGLISH?,Qualification
+what is the per course fees for Masters in Bachelors in ENGLISH?,Fees
+minimum courses required in a semester for Bachelors in ENGLISH?,Courses
+how many courses are required in a semester for Bachelors in ENGLISH?,Courses
+what are the minimum courses a student can take in a semester in Bachelors in ENGLISH?,Courses
+what is the total fees for a semester in Bachelors in ENGLISH?,Fees
+Semester fees for a semester in Bachelors in ENGLISH?,Fees
+per semester fees for a semester in Bachelors in ENGLISH?,Fees
+is registration fees of a semester is refundable in Bachelors in ENGLISH?,Fees
+what is the registration fees for spring in Bachelors in ENGLISH?,Fees
+Spring regestration fees in Bachelors in ENGLISH?,Fees
+what is the registration fees for summer in Bachelors in ENGLISH?,Fees
+Summer regestration fees in Bachelors in ENGLISH?,Fees
+what is the registration fees for fall in Bachelors in ENGLISH?,Fees
+Fall registration fees in Bachelors in ENGLISH?,Fees
+what is the documents verification fees for Bachelors in ENGLISH?,Fees
+is there any fees for documents verification fees for Bachelors in ENGLISH?,Fees
+is document verification fees of a semester is refundable in Bachelors in ENGLISH?,Fees
+how many times a student have to pay the documents verification fees for Bachelors in ENGLISH?,Fees
+what is the fees structure of first semester for Bachelors in ENGLISH?,Fees
+what is the duration time of spring semester in Bachelors in ENGLISH?,Semester Duration
+what is the duration time of fall semester in Bachelors in ENGLISH?,Semester Duration
+what is the duration time of summer semester in Bachelors in ENGLISH?,Semester Duration
+what is the eligibility creteria for Islamic Banking and Finance (PGD)?,Qualification
+eligibility creteria for Islamic Banking and Finance (PGD)?,Qualification
+what percentage is required for admission in Islamic Banking and Finance (PGD)?,Qualification
+what qualification is required for Islamic Banking and Finance (PGD)?,Qualification
+what minimum percentage is required in intermediate for admission in Islamic Banking and Finance (PGD)?,Qualification
+what minimum percentage is required in associate diploma for admission in Islamic Banking and Finance (PGD)?,Qualification
+for associate diploama students what percentage is required for admission in Islamic Banking and Finance (PGD)?,Qualification
+what minimum percentage is required in A level for admission in Islamic Banking and Finance (PGD)?,Qualification
+what are the total credit hours in Islamic Banking and Finance (PGD)?,Credit Hours
+how many credit hours in Islamic Banking and Finance (PGD)?,Credit Hours
+Total credit hours in Islamic Banking and Finance (PGD)?,Credit Hours
+how many credit hours we need to study in Islamic Banking and Finance (PGD)?,Credit Hours
+what are the total courses in Islamic Banking and Finance (PGD)?,Courses
+how many courses in Islamic Banking and Finance (PGD)?,Courses
+Total courses in Islamic Banking and Finance (PGD)?,Courses
+how many courses we need to study in Islamic Banking and Finance (PGD)?,Courses
+what are the classes timings for Islamic Banking and Finance (PGD)?,Classes Timings
+what is the per credit hour fees for Islamic Banking and Finance (PGD)?,Fees
+what is the per course fees for Islamic Banking and Finance (PGD)?,Fees
+minimum courses required in a semester for Islamic Banking and Finance (PGD)?,Courses
+how many courses are required in a semester for Islamic Banking and Finance (PGD)?,Courses
+what are the minimum courses a student can take in a semester in Islamic Banking and Finance (PGD)?,Courses
+what is the total fees for a semester in Islamic Banking and Finance (PGD)?,Fees
+Semester fees for a semester in Islamic Banking and Finance (PGD)?,Fees
+per semester fees for a semester in Islamic Banking and Finance (PGD)?,Fees
+is registration fees of a semester is refundable in Islamic Banking and Finance (PGD)?,Fees
+what is the registration fees for spring in Islamic Banking and Finance (PGD)?,Fees
+Spring regestration fees in Islamic Banking and Finance (PGD)?,Fees
+what is the registration fees for summer in Islamic Banking and Finance (PGD)?,Fees
+Summer regestration fees in Islamic Banking and Finance (PGD)?,Fees
+what is the registration fees for fall in Islamic Banking and Finance (PGD)?,Fees
+Fall registration fees in Islamic Banking and Finance (PGD)?,Fees
+what is the documents verification fees for Islamic Banking and Finance (PGD)?,Fees
+is there any fees for documents verification fees for Islamic Banking and Finance (PGD)?,Fees
+How much is the documents verification fees for Islamic Banking and Finance (PGD)?,Fees
+is document verification fees of a semester is refundable in Islamic Banking and Finance (PGD)?,Fees
+how many times a student have to pay the documents verification fees for Islamic Banking and Finance (PGD)?,Fees
+what is the fees structure of first semester for Islamic Banking and Finance (PGD)?,Fees
+what is the duration time of spring semester in Islamic Banking and Finance (PGD)?,Semester Duration
+what is the duration time of fall semester in Islamic Banking and Finance (PGD)?,Semester Duration
+what is the duration time of summer semester in Islamic Banking and Finance (PGD)?,Semester Duration
+What is the transfer policy from other universities to Iqra university?,Transfer
+Conditions for transfer courses for the students who are transfering from other universities?,Courses
+Course transfer policies for the transfer students?,Courses
+What is the fees for course transfer from other universities?,Fees
+Course transfer fees for the student who are transfering from other universities?,Fees
+What is the per credit hour fees for transfering courses from other universities?,Fees
+Requirements for transfer from other universities?,Fees
+What documents are required for transfer from other universities?,Transfer
+What are the programs offered at gulshan campus of iqra university?,Degree Programs
+What degree programs are offered at gulshan campus of Iqra university? ,Degree Programs
