@@ -4,14 +4,20 @@ import numpy as np
 import re
 import heapq
 
+from sklearn import datasets
+from sklearn.preprocessing import LabelEncoder
+from sklearn.preprocessing import OneHotEncoder
+le = LabelEncoder()
+one = OneHotEncoder()
 pd.set_option('display.max_colwidth', -1)
+data = pd.read_csv('Dataset_final2.csv')
 
-file = pd.ExcelFile('Dataset_final.xlsx')
+X = data['QUESTIONS']
 
-reader1 = pd.read_excel(file, usecols='B')
-reader2 = pd.read_excel(file, usecols='A')
-Y = reader1
-X = reader2
+Y = le.fit_transform(data['INTENTS'])
+Y = one.fit_transform(Y.reshape(-1,1)).toarray()
+
+
 
 X_corpus = nltk.sent_tokenize(X.to_string())
 
@@ -45,25 +51,22 @@ for sentence in X_corpus:
 
 X_sentence_vectors = np.asarray(X_sentence_vectors)
 
-print(X_sentence_vectors)
-
-
-"""
 from sklearn.model_selection import train_test_split
-lookback = 1
-X_train, X_test, y_train, y_test = train_test_split(X_sentence_vectors, test_size = 0.2)
+
+X_train, X_test, y_train, y_test = train_test_split(X_sentence_vectors, Y, test_size = 0.2)
 
 from keras import Sequential
-from keras.layers import LSTM
+from keras.layers import LSTM, Dense, Dropout
 
 model = Sequential()
-model.add(LSTM(units=6, input_shape=(1 , lookback) , return_sequences = True))
-model.add(LSTM(units=6, return_sequences=True))
-model.add(LSTM(units=6, return_sequences=True))
+model.add(LSTM(units=6, input_shape=(485,200), return_sequences = True))
+model.add(LSTM(units=6,return_sequences=True))
+model.add(Dense(64, activation='relu'))
+
 model.add(LSTM(units=1, return_sequences=True, name='output'))
-model.compile(loss='cosine_proximity', optimizer='sgd', metrics = ['accuracy'])
 
-print(model.summary())
+model.compile(loss='categorical_crossentropy', optimizer='adam', metrics = ['accuracy'])
 
-model.fit(X_train, y_train, validation_data=(X_test,y_test) , epochs=100, batch_size=1 , verbose=2)
-"""
+model.summary()
+
+model.fit(X_train, y_train, epochs=100, verbose=2 , validation_data=(X_test,y_test))
