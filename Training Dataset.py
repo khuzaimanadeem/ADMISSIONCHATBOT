@@ -62,7 +62,7 @@ model = Sequential()
 model.add(LSTM(units=6, input_shape=(485,200), return_sequences = True))
 model.add(LSTM(units=6,return_sequences=True))
 model.add(Dense(64, activation='relu'))
-
+model.add(Dropout(0.5))
 model.add(LSTM(units=1, return_sequences=True, name='output'))
 
 model.compile(loss='categorical_crossentropy', optimizer='adam', metrics = ['accuracy'])
